@@ -1,0 +1,16 @@
+.star-rating {
+    display: grid;
+    place-items: center;
+}
+.star-rating_stars {
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+}
+.star {
+    font-size: 28px;
+    color: lightgray;
+}
+.star-color {
+    color: yellow;
+}
