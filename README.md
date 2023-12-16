@@ -12,3 +12,6 @@ previous state
 Good to have features->optimization , accessibility
 * put emojis instead of numbers
 * slider based star rating
+
+How to run this file
+* Download the folder and double click on index.html
