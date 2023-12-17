@@ -7,9 +7,9 @@ Must-Have Features
     - Count should be printed
     - Stars should be highlighted
 4) on hover
-    • highlight the stars
+    - highlight the stars
 5) on mouse leave
-    • highlighted stars should track back to their previous state 
+    - highlighted stars should track back to their previous state 
 
 Good to have features -> optimization, accessibility
 1) put emojis instead of numbers
