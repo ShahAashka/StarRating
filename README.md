@@ -16,7 +16,7 @@ Good to have features -> optimization, accessibility
 * Slider-based star rating
 
 How to run this file
-* Open the index.html file in your browser
+* Download the folder and open the index.html file in your browser
 
 https://github.com/ShahAashka/StarRating/assets/35736445/2b539a64-6f67-44a0-9fda-05eea5aa5ca6
 
