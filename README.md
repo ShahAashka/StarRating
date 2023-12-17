@@ -3,9 +3,9 @@ Star Rating Feature in Vanilla Js
 Must-Have Features
 1) Rating from 1 to 5 
 2) on click
-    • Rating should appear
-    • Count should be printed
-    • Stars should be highlighted
+    - Rating should appear
+    - Count should be printed
+    - Stars should be highlighted
 4) on hover
     • highlight the stars
 5) on mouse leave
