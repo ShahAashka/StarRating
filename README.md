@@ -6,9 +6,9 @@ Must-Have Features
     • Rating should appear
     • Count should be printed
     • Stars should be highlighted
-3) on hover 
+4) on hover
     • highlight the stars
-4) on mouse leave
+5) on mouse leave
     • highlighted stars should track back to their previous state 
 
 Good to have features -> optimization, accessibility
