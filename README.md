@@ -1,6 +1,7 @@
 Star Rating Feature in Vanilla Js
 
 Features
+
 * Rating from 1 to 5 
 * on click
     - Rating should appear
