@@ -1,19 +1,19 @@
 Star Rating Feature in Vanilla Js
 
 Must-Have Features
-* Rating from 1 to 5 
-* on click
+1) Rating from 1 to 5 
+2) on click
     • Rating should appear
     • Count should be printed
     • Stars should be highlighted
-* on hover 
+3) on hover 
     • highlight the stars
-* on mouse leave
+4) on mouse leave
     • highlighted stars should track back to their previous state 
 
 Good to have features -> optimization, accessibility
-* put emojis instead of numbers
-* Slider-based star rating
+1) put emojis instead of numbers
+2) Slider-based star rating
 
 How to run this file
 * Download the folder and open the index.html file in your browser
